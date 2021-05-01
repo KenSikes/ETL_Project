@@ -27,7 +27,7 @@ https://www.kaggle.com/nasa/kepler-exoplanet-search-results
 
 Transform - 
 
-The data needed to be cleaned up to something useful. Columns renamed, dropped non useful columns. 
+The data needed to be cleaned up to something useful. Columns renamed, dropped non useful columns/ NaN values. 
 
 Purpose would be to join the datasets and query overlapping exoplanet data to identify common characteristics of the exoplanets. 
 
